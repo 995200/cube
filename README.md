@@ -105,3 +105,6 @@ Cube Backend is [Apache 2.0 licensed](./packages/cubejs-server/LICENSE).
 
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js?ref=badge_large)
+
+
+###96385207463210.25498520
